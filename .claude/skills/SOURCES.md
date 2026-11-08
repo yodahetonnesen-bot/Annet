@@ -7,5 +7,6 @@
 | last30days | mvanhorn/last30days-skill (skills/last30days, demo `assets/` omitted) | 71dc2a1 |
 | marketing-psychology | coreyhaines31/marketingskills (skills/marketing-psychology) | 96798cf |
 | teach | mattpocock/skills (skills/productivity/teach) | 4ae2317 |
+| delegate | written for this repo (not vendored) | — |
 
 All MIT licensed. Tests/evals and contributor docs were left out.
